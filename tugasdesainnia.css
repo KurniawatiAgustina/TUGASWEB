@@ -1,0 +1,120 @@
+.kiri {
+    background-color: rgb(197, 80, 21);
+    width: 2110px;
+    padding: 50px;
+    float: left;
+    margin-top: 600px;
+    margin-left: -49px;
+}
+
+.kanan {
+    background-color: rgb(219, 108, 17);
+    height: 1000px;
+    width: 700px;
+    padding: 50px;
+    position: relative;
+    float: right;
+}
+.atas {
+    width: 50px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    float: left;
+}
+
+.atas > img {
+    height: 600px;
+    width: 2210px;
+    padding-top: 0px;
+    margin-left: 1px;
+}
+
+.kanan > h2{
+    font-size: 50px;
+}
+.nama > h5{
+    font-size: 40px;
+    font-style: oblique;
+}
+.kanan > p {
+    font-size: 35px;
+    padding-left: 2pt;
+
+}
+
+.kanan > ul > li {
+    font-size: 30px;
+}
+
+.kiri > ul > li > b {
+    font-size: 30px;
+  
+}
+
+.nama{
+    font-size: 70px;
+    text-align: center;
+}
+
+.kiri > ul > .pengalamanorganisasi {
+    font-size: 60px;
+}
+
+.prestasi {
+    font-size: 50px;
+}
+
+.Education {
+    font-size: 40px;
+    margin-right: 50px;
+    margin-left: 800px;
+    padding-top: 100px;
+    margin-top: -300px;
+}
+.Education > ul {
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.Education b.education{
+    text-align: center;
+    margin-left: 370px;
+    font-size: 60px;
+}
+
+img.ikon{
+    height: 60px;
+    weight: 80px;
+    vertical-align: -20px;
+}
+
+.teks1{
+    text-align: left;
+}
+.kontak {
+    float: right;
+    margin-right: 40px;
+    margin-top: -500px;
+}
+p.icon {
+    font-size: 30pt;
+}
+.kontak > h2{
+    font-size: 60px;
+}
+.pengalaman b.pengalamanorganisasi {
+    font-size: 60px;
+}
+.pengalaman>ul{
+    font-size: 40px;
+}
+.pengalaman{
+    padding-top: 100px;
+    margin-left: -10px;
+   margin-top: -100px;
+}
+.kontak a{
+    color: aliceblue;
+}
+.bawah {
+    background-color: chocolate;
+}
